@@ -8,3 +8,10 @@ The assignment focuses on building a Java web application that handles distribut
 
 ### Disclaimer
 Code will be uploaded soon, legal matters.
+
+## Access
+You can still check the work done until we have the license at: https://distributed-systems-406415.ew.r.appspot.com/login
+To login you can do it with non-existing credentials: "example34@gmail.com" - "example".
+
+## Grade
+Our project received a stellar grade of 3.25/4.

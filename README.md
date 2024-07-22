@@ -6,7 +6,7 @@ This project involves developing a large-scale enterprise application to underst
 ## Goal
 The assignment focuses on building a Java web application that handles distributed transactions across independent servers. We will use Spring Boot to accelerate development and optionally deploy on Google App Engine to handle high availability and scalability, using the NoSQL model for data persistence.
 
-### Disclaimer
+### Note
 The code will be uploaded soon, for legal matters.
 
 ## Access
